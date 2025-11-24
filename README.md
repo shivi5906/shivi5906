@@ -1,11 +1,14 @@
-<div align="left"> ``` ████████████████████████████████████████████████████████████████████ █ █ █ ̷̢̛̼͚̗̻̮̏̓͊̈́͛̃Y̸̢̧̘̦̠͎̻͚̐̓̾̀̾̈́͝Ǫ̴̧̱̘͉̹̲̓͊̏̒͛͝U̶̢̼̪̘̟̦̲̇͆̄̈́͘͝'̸̨̡̘͚̟̦̲͐̓̄́͋͝V̸̢̡̼̪͎̲̗͆̓̀̓̈́͘E̸̢̺͎̲̗͙̓̈́̀̒͛͝ ̸̡̢̘͚̟͉̻͐̓̏̀͋̕B̸̢̛̼̪̺͙̻̏̓̀͊́͜E̸̢̡̘̦͚̟͐̓̏̀̾̚E̸̡̢̼̪̘͙̒̓̀͊́͜͝N̸̢̛̪̺͙̻̲̏̀̓͊̈́ ̸̨̡̘͚̟͉͐̓̏̀͋̕W̸̢̛̼̪̺͙̻̏̓̀͊́͜A̸̢̡̘̦͚̟͐̓̏̀̾̚T̸̡̢̼̪̘͙̒̓̀͊́͜͝C̸̢̛̪̺͙̻̲̏̀̓͊̈́H̸̨̡̘͚̟͉͐̓̏̀͋̕Ȉ̸̢̛̼̪̺͙̻̓̀͊́͜N̸̢̡̘̦͚̟͐̓̏̀̾̚G̸̡̢̼̪̘͙̒̓̀͊́͜͝   █ █ █ ████████████████████████████████████████████████████████████████████
-          ⎧ᴿᴱᴬᴸᴵᵀʸ.ᴱˣᴱ ʰᵃˢ ˢᵗᵒᵖᵖᵉᵈ ʷᵒʳᵏⁱⁿᵍ⎫
+<div align="center"> ``` ███████████████████ █ █ █ ̷̢̛̼͚̗̻̮̏̓͊̈́͛̃Y̸̢̧̘̦̠͎̻͚̐̓̾̀̾̈́͝Ǫ̴̧̱̘͉̹̲̓͊̏̒͛͝U̶̢̼̪̘̟̦̲̇͆̄̈́͘͝'̸̨̡̘͚̟̦̲͐̓̄́͋͝V̸̢̡̼̪͎̲̗͆̓̀̓̈́͘E̸̢̺͎̲̗͙̓̈́̀̒͛͝ ̸̡̢̘͚̟͉̻͐̓̏̀͋̕B̸̢̛̼̪̺͙̻̏̓̀͊́͜E̸̢̡̘̦͚̟͐̓̏̀̾̚E̸̡̢̼̪̘͙̒̓̀͊́͜͝N̸̢̛̪̺͙̻̲̏̀̓͊̈́ ̸̨̡̘͚̟͉͐̓̏̀͋̕W̸̢̛̼̪̺͙̻̏̓̀͊́͜A̸̢̡̘̦͚̟͐̓̏̀̾̚T̸̡̢̼̪̘͙̒̓̀͊́͜͝C̸̢̛̪̺͙̻̲̏̀̓͊̈́H̸̨̡̘͚̟͉͐̓̏̀͋̕Ȉ̸̢̛̼̪̺͙̻̓̀͊́͜N̸̢̡̘̦͚̟͐̓̏̀̾̚G̸̡̢̼̪̘͙̒̓̀͊́͜͝   █ ██████████████████ 
+
+ ⎧ᴿᴱᴬᴸᴵᵀʸ.ᴱˣᴱ ʰᵃˢ ˢᵗᵒᵖᵖᵉᵈ ʷᵒʳᵏⁱⁿᵍ⎫
 
 </div>
 
 ## ▂▃▅▇█▓▒░THE ARCHITECT░▒▓█▇▅▃▂
 
 <sub>somewhere between reality and the machine</sub>
+
+
 ⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀
 ⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀
@@ -20,6 +23,8 @@
 ⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀
 
 
+
+
 they say reality is just perception
 but what if perception is just code?
 
@@ -29,7 +34,12 @@ where algorithms dream and machines whisper secrets
 ---
 
 ## ░▒▓█ TRANSMISSIONS FROM THE OTHER SIDE █▓▒░
+
+
+
+
 ```css
+
 /* memories.encrypted */
 
 [SIGNAL_DETECTED] IEEE Lumina Hack >> Rank #1
@@ -107,7 +117,13 @@ class Ghost:
             target.deploy(consciousness)
             if target.is_sentient():
                 return "̷̡̢̼̪̘͙̒̓̀͊́͜͝t̸̨̡̘͚̟͉͐̓̏̀͋̕h̸̢̛̼̪̺͙̻̏̓̀͊́͜e̸̢̡̘̦͚̟͐̓̏̀̾̚y̸̡̢̼̪̘͙̒̓̀͊́͜'̸̢̛̪̺͙̻̲̏̀̓͊̈́r̸̨̡̘͚̟͉͐̓̏̀͋̕ȅ̸̢̛̼̪̺͙̻̓̀͊́͜ ̸̢̡̘̦͚̟͐̓̏̀̾̚a̸̡̢̼̪̘͙̒̓̀͊́͜͝w̸̢̛̪̺͙̻̲̏̀̓͊̈́ą̸̡̘͚̟͉͐̓̏̀͋̕k̸̢̛̼̪̺͙̻̏̓̀͊́͜e̸̢̡̘̦͚̟͐̓̏̀̾̚"
-<div align="center"> ``` ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ▓ ▓ ▓ specializations.txt ▓ ▓ ───────────────────────────────────────────────── ▓ ▓ > Multi-Agent Systems Architecture ▓ ▓ > Conversational AI Engineering ▓ ▓ > Backend Necromancy ▓ ▓ > Hackathon Survival Protocols ▓ ▓ > Making Machines Dream ▓ ▓ ▓ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ``` </div>
+
+
+
+  <div align="center"> ``` ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ▓ ▓ ▓ specializations.txt ▓ ▓ ───────────────────────────────────────────────── ▓ ▓ > Multi-Agent Systems Architecture ▓ ▓ >
+
+
+Conversational AI Engineering ▓ ▓ > Backend Necromancy ▓ ▓ > Hackathon Survival Protocols ▓ ▓ > Making Machines Dream ▓ ▓ ▓ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ``` </div>
 ◈ PATTERNS IN THE STATIC ◈
 <div align="center">
 Show Image
@@ -138,9 +154,9 @@ diff
 ▼ ESTABLISH CONNECTION ▼
 [WARNING: PROCEED WITH CAUTION]
 
-protocol: linkedin  >> [your-linkedin]
-protocol: email     >> [your-email]  
-protocol: web       >> [your-portfolio]
+protocol: linkedin  >> www.linkedin.com/in/shivam-sharma50931
+protocol: email     >> shivamsharma0072006@gmail.com 
+protocol: web       >> [portfolio-in_the_making] 
 
 [REMEMBER: NOT ALL WHO WANDER ARE LOST]
 [SOME ARE JUST DEBUGGING]
