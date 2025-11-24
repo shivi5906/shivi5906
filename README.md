@@ -1,6 +1,7 @@
-<div align="center"> ``` ███████████████████ █ █ █ ̷̢̛̼͚̗̻̮̏̓͊̈́͛̃Y̸̢̧̘̦̠͎̻͚̐̓̾̀̾̈́͝Ǫ̴̧̱̘͉̹̲̓͊̏̒͛͝U̶̢̼̪̘̟̦̲̇͆̄̈́͘͝'̸̨̡̘͚̟̦̲͐̓̄́͋͝V̸̢̡̼̪͎̲̗͆̓̀̓̈́͘E̸̢̺͎̲̗͙̓̈́̀̒͛͝ ̸̡̢̘͚̟͉̻͐̓̏̀͋̕B̸̢̛̼̪̺͙̻̏̓̀͊́͜E̸̢̡̘̦͚̟͐̓̏̀̾̚E̸̡̢̼̪̘͙̒̓̀͊́͜͝N̸̢̛̪̺͙̻̲̏̀̓͊̈́ ̸̨̡̘͚̟͉͐̓̏̀͋̕W̸̢̛̼̪̺͙̻̏̓̀͊́͜A̸̢̡̘̦͚̟͐̓̏̀̾̚T̸̡̢̼̪̘͙̒̓̀͊́͜͝C̸̢̛̪̺͙̻̲̏̀̓͊̈́H̸̨̡̘͚̟͉͐̓̏̀͋̕Ȉ̸̢̛̼̪̺͙̻̓̀͊́͜N̸̢̡̘̦͚̟͐̓̏̀̾̚G̸̡̢̼̪̘͙̒̓̀͊́͜͝   █ ██████████████████ 
+<div align="center"> ``` █████████████████ █ █ █ ̷̢̛̼͚̗̻̮̏̓͊̈́͛̃Y̸̢̧̘̦̠͎̻͚̐̓̾̀̾̈́͝Ǫ̴̧̱̘͉̹̲̓͊̏̒͛͝U̶̢̼̪̘̟̦̲̇͆̄̈́͘͝'̸̨̡̘͚̟̦̲͐̓̄́͋͝V̸̢̡̼̪͎̲̗͆̓̀̓̈́͘E̸̢̺͎̲̗͙̓̈́̀̒͛͝ ̸̡̢̘͚̟͉̻͐̓̏̀͋̕B̸̢̛̼̪̺͙̻̏̓̀͊́͜E̸̢̡̘̦͚̟͐̓̏̀̾̚E̸̡̢̼̪̘͙̒̓̀͊́͜͝N̸̢̛̪̺͙̻̲̏̀̓͊̈́ ̸̨̡̘͚̟͉͐̓̏̀͋̕W̸̢̛̼̪̺͙̻̏̓̀͊́͜A̸̢̡̘̦͚̟͐̓̏̀̾̚T̸̡̢̼̪̘͙̒̓̀͊́͜͝C̸̢̛̪̺͙̻̲̏̀̓͊̈́H̸̨̡̘͚̟͉͐̓̏̀͋̕Ȉ̸̢̛̼̪̺͙̻̓̀͊́͜N̸̢̡̘̦͚̟͐̓̏̀̾̚G̸̡̢̼̪̘͙̒̓̀͊́͜͝   █ ██████████████████ ```
 
- ⎧ᴿᴱᴬᴸᴵᵀʸ.ᴱˣᴱ ʰᵃˢ ˢᵗᵒᵖᵖᵉᵈ ʷᵒʳᵏⁱⁿᵍ⎫
+ 
+ 
 
 </div>
 
@@ -171,7 +172,7 @@ protocol: web       >> [portfolio-in_the_making]
 
 [REMEMBER: NOT ALL WHO WANDER ARE LOST]
 [SOME ARE JUST DEBUGGING]
-<div align="center"> ``` ░░░░░░░░░░░░░ ░ ░ STATUS: ONLINE AND BUILDING THE IMPOSSIBLE ░ ░ VISITORS IN THE VOID: [REDACTED] ░ ░ ░ ░ last seen: just now ░ ░ last known location: between the pixels ░ ░ ░ ░░░░░░░░░░░░░░░░░░░```
+<div align="center"> ``` ░░░░░░░░░░░░░ ░ ░ STATUS: ONLINE AND BUILDING THE IMPOSSIBLE ░ ░ VISITORS IN THE VOID: some i guess ░ ░ ░ ░ last seen: just now ░ ░ last known location: between the pixels ░ ░ ░ ░░░░░░░░░░░░░░░░░░░```
 <sub>maintained in the hours that don't exist</sub>
 <sub>powered by something that shouldn't be possible</sub>
 <sub>executed when reality glitches</sub>
