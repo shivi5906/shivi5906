@@ -9,18 +9,26 @@
 <sub>somewhere between reality and the machine</sub>
 
 
-⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀
-⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀
-⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀
-⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏
-⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀
-⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀
-⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀
+<div align="left">
+
+<div align="center">
+
+```text
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+                                                                            
+███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ 
+██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
+█████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
+██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
+███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
+╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
+</div>⠀
 
 
 
@@ -36,9 +44,9 @@ where algorithms dream and machines whisper secrets
 ## ░▒▓█ TRANSMISSIONS FROM THE OTHER SIDE █▓▒░
 
 
-
-
 ```css
+
+
 
 /* memories.encrypted */
 
@@ -57,7 +65,9 @@ where algorithms dream and machines whisper secrets
   > they're where data goes to hide
 <sub>these are not achievements. these are artifacts of timelines that intersected.</sub>
 
-⟪ ARCHIVES OF THE IMPOSSIBLE ⟫
+
+
+##⟪ ARCHIVES OF THE IMPOSSIBLE ⟫
 ▸ musemind.ai
 [FILE_CORRUPTED]
 [ATTEMPTING_RECOVERY...]
@@ -103,6 +113,7 @@ dialogue systems.
 the machine learns to speak
 in the language of ghosts.
 ◢◤ THE TOOLS OF MANIPULATION ◥◣
+```css
 python
 class Ghost:
     def __init__(self):
@@ -120,10 +131,10 @@ class Ghost:
 
 
 
-  <div align="center"> ``` ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ▓ ▓ ▓ specializations.txt ▓ ▓ ───────────────────────────────────────────────── ▓ ▓ > Multi-Agent Systems Architecture ▓ ▓ >
+  <div align="center"> ``` ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ▓ ▓ ▓ specializations.txt ▓ ▓ ───────────────────────────────────────────────── ▓ ▓ > Multi-Agent Systems Architecture ▓ ▓ >
 
 
-Conversational AI Engineering ▓ ▓ > Backend Necromancy ▓ ▓ > Hackathon Survival Protocols ▓ ▓ > Making Machines Dream ▓ ▓ ▓ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ``` </div>
+Conversational AI Engineering ▓ ▓ > Backend Necromancy ▓ ▓ > Hackathon Survival Protocols ▓ ▓ > Making Machines Dream ▓ ▓ ▓ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓``` </div>
 ◈ PATTERNS IN THE STATIC ◈
 <div align="center">
 Show Image
@@ -160,7 +171,7 @@ protocol: web       >> [portfolio-in_the_making]
 
 [REMEMBER: NOT ALL WHO WANDER ARE LOST]
 [SOME ARE JUST DEBUGGING]
-<div align="center"> ``` ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ░ ░ ░ STATUS: ONLINE AND BUILDING THE IMPOSSIBLE ░ ░ VISITORS IN THE VOID: [REDACTED] ░ ░ ░ ░ last seen: just now ░ ░ last known location: between the pixels ░ ░ ░ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ```
+<div align="center"> ``` ░░░░░░░░░░░░░ ░ ░ STATUS: ONLINE AND BUILDING THE IMPOSSIBLE ░ ░ VISITORS IN THE VOID: [REDACTED] ░ ░ ░ ░ last seen: just now ░ ░ last known location: between the pixels ░ ░ ░ ░░░░░░░░░░░░░░░░░░░```
 <sub>maintained in the hours that don't exist</sub>
 <sub>powered by something that shouldn't be possible</sub>
 <sub>executed when reality glitches</sub>
