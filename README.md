@@ -47,8 +47,8 @@ Langchain | Langgraph | WebSockets | API | React
 
  # Contacts
 
-1. Linkedin - [Shivam_Sharma](www.linkedin.com/in/shivam-sharma50931)
-2. Instagram - [Shivam](www.instagram.com/btwits_ss31?igsh=c2ZjM25pOGFnYmNw)
+1. Linkedin - (www.linkedin.com/in/shivam-sharma50931)
+2. Instagram - (www.instagram.com/btwits_ss31?igsh=c2ZjM25pOGFnYmNw)
 <div align="center">
 
 </div>
