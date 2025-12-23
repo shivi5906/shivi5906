@@ -39,10 +39,10 @@ SIH Finalist Project | Simulation Logic A project that gamifies civic duty. Play
 OSDC Rank #2 | Backend Systems An advanced chatbot engine designed to understand the nuance and silence between words, focusing on complex dialogue management.
 
 ## Skills & Tools
-Python | C++ | Java | SQL (PL/SQL) | FastAPI | Multi-Threading | Git
+Python | C++ | Java | Javascript | Go | PostgreSQL (PL/SQL) | FastAPI | Multi-Threading | Git 
 
 ## Frameworks 
-Langchain | Langgraph | WebSockets | API | React 
+Langchain | Langgraph | WebSockets | API | React | Ai/ML-pytourch 
 
 
  # Contacts
