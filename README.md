@@ -1,6 +1,6 @@
 <div align="center">
 
-# THE ARCHITECT
+# THE ARCHITECT AKA masked_dev
 ### Building the Logic Behind the Magic
 
 </div>
