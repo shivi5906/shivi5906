@@ -42,13 +42,12 @@ OSDC Rank #2 | Backend Systems An advanced chatbot engine designed to understand
 Python | C++ | Java | Javascript | Go | PostgreSQL (PL/SQL) | FastAPI | Multi-Threading | Git 
 
 ## Frameworks 
-Langchain | Langgraph | WebSockets | API | React | Ai/ML-pytourch 
+Langchain | Langgraph | WebSockets | API | React | Ai/ML-numpy , pandas , scikit-learn , matplotlib , tensorflow(for DL) 
 
 
  # Contacts
 
 1. Linkedin - (www.linkedin.com/in/shivam-sharma50931)
-2. Instagram - (www.instagram.com/btwits_ss31?igsh=c2ZjM25pOGFnYmNw)
 <div align="center">
 
 </div>
