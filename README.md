@@ -120,18 +120,9 @@ class Engineer:
 
 </div>
 
-## `06.` Contribution Graph
-
-<div align="center">
-
-<!-- CONTRIBUTION-SNAKE-START -->
-<img src="https://raw.githubusercontent.com/shivi5906/shivi5906/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-<!-- CONTRIBUTION-SNAKE-END -->
-
-</div>
 
 
-## `07.` Achievements
+## `06.` Achievements
 
 <div align="center">
 
@@ -146,7 +137,7 @@ class Engineer:
 
 </div>
 
-## `08.` Fun Facts
+## `07.` Fun Facts
 
 <div align="center">
 
@@ -157,7 +148,7 @@ class Engineer:
 
 </div>
 
-## `09.` Connect With Me
+## `08.` Connect With Me
 
 <div align="center">
 
