@@ -130,15 +130,8 @@ class Engineer:
 
 </div>
 
-## `07.` Trophy Case
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivi5906&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
-## `08.` Achievements
+## `07.` Achievements
 
 <div align="center">
 
@@ -153,7 +146,7 @@ class Engineer:
 
 </div>
 
-## `09.` Fun Facts
+## `08.` Fun Facts
 
 <div align="center">
 
@@ -164,7 +157,7 @@ class Engineer:
 
 </div>
 
-## `10.` Connect With Me
+## `09.` Connect With Me
 
 <div align="center">
 
@@ -174,7 +167,6 @@ class Engineer:
 
 <br/><br/>
 
-<img src="https://profile-counter.glitch.me/shivi5906/count.svg" alt="visitor count" />
 
 </div>
 
