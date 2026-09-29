@@ -128,9 +128,10 @@ class Engineer:
 
 | Milestone | Detail |
 |:---|:---|
+| **Smart India Hackathon (SIH)** | 🎖️ College Finalist x 2  |
 | **IEEE Lumina Hack** | Rank #1 — 🏆 Winner |
 | **OSDC HackNight** | Rank #2 — 🥈 Runner-up |
-| **Smart India Hackathon (SIH)** | 🎖️ College Finalist |
+
 | **AI Systems Shipped** | 6+ end-to-end AI products spanning simulation, security, and agents |
 | **Security Research** | Building offensive & defensive tooling for real-world threat detection |
 | **System Design** | Designing distributed, scalable backend architectures from the ground up |
